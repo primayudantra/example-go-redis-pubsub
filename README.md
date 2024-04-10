@@ -1,3 +1,6 @@
+**Architecture**
+![image](architecture.png)
+
 **Publisher-Subscriber Example With Redis**
 
 This repository contains a simple example of a publisher-subscriber pattern implemented in Go. The publisher sends messages, and the subscriber receives and processes them accordingly.
@@ -43,4 +46,7 @@ This repository contains a simple example of a publisher-subscriber pattern impl
 ### Requirements:
 
 - Go programming language (Golang) installed on your system.
-- Redis (Installation instruction [here](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/))
+- Redis (Installation instruction [here](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/)
+
+---
+Prima Yudantra - [Github](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/)
